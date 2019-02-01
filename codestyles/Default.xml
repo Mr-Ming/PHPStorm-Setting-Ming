@@ -11,6 +11,11 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
